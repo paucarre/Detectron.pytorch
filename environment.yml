@@ -1,0 +1,22 @@
+name: detectron
+channels:
+  - ericmjl
+  - pytorch
+  - conda-forge
+  - hcc
+dependencies:
+  - python=3.6
+  - opencv=3.4.2
+  - pytorch=0.4.1
+  - torchvision=0.2.1
+  - coverage=4.5.1
+  - click=6.7
+  - gevent=1.2.2
+  - simplejson=3.11.1
+  - matplotlib=3.0.3
+  - cython=0.29.6
+  - pyyaml=5.1
+  - scipy=1.2.1
+  - packaging=16.8
+  - pycocotools=2.0.0
+  - tensorboardx=1.6
